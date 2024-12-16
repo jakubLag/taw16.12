@@ -3,3 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+.image {
+  width: 400px;
+}
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  
+
+}
